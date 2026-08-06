@@ -1,4 +1,3 @@
-/trainingdata.csv
 /1_Find_S_Algorithm.ipynb
 /2_Candidate_Elimination.ipynb
 /3_Decision_Tree_ID3.ipynb
@@ -9,4 +8,8 @@
 /8_Linear_Regression.ipynb
 /9_Linear_Polynomial_Regression.ipynb
 /10_Expectation_Maximization.ipynb
-playtennis.csv
+/11_Credit_Score_Classification.ipynb
+/12_Iris_Flower_Classification.ipynb
+/credit_score.csv
+/playtennis.csv
+/trainingdata.csv
